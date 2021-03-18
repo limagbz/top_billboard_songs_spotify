@@ -109,6 +109,7 @@ index,artist
 88,The Ray Charles Singers
 89,Johnny Cash
 90,Tony Bennett
+91,Jane Powell
 92,Nat King Cole
 93,Peggy Lee
 93,Sy Oliver & His Orchestra
@@ -148,7 +149,7 @@ index,artist
 123,Fats Domino
 124,Fats Domino
 125,Johnny Mathis
-125,Ray Conniff
+125,Preston Glass
 126,Elvis Presley
 127,Harry Belafonte
 128,Pat Boone
@@ -206,8 +207,10 @@ index,artist
 177,The Ray Charles Singers
 178,Pat Boone
 179,The Everly Brothers
+180,Kathy Linden
 181,Johnny Cash
 182,Jerry Lee Lewis
+183,Marty Robbins & Orchestra
 184,Johnny Horton
 185,Bobby Darin
 186,Paul Anka
@@ -310,7 +313,6 @@ index,artist
 274,Neil Sedaka
 275,Johnny Tillotson
 276,Ferlin Husky
-276,Hank Locklin
 277,Elvis Presley
 278,Ricky Nelson
 279,The Capris
@@ -591,7 +593,7 @@ index,artist
 543,Simon & Garfunkel
 544,The Lovin' Spoonful
 545,Stevie Wonder
-546,Cher
+546,Cherry Glazerr
 547,The Beach Boys
 548,The Rolling Stones
 549,The Temptations
@@ -883,6 +885,8 @@ index,artist
 814,Lido
 815,Tom Jones
 816,Murray Head
+816,Andrew Lloyd Webber
+816,Tim Rice
 816,The Trinidad Singers
 817,Carpenters
 818,Donny Osmond
@@ -1088,7 +1092,6 @@ index,artist
 1012,Hues Corporation
 1013,Stevie Wonder
 1014,Dionne Warwick
-1014,The Spinners
 1015,Paper Lace
 1016,ABBA
 1017,The Hollies
@@ -1872,6 +1875,7 @@ index,artist
 1744,Madonna
 1745,Bruce Springsteen
 1746,Quiet Riot
+1747,Irene Cara
 1748,Daryl Hall & John Oates
 1749,Billy Joel
 1750,Bananarama
@@ -2043,6 +2047,8 @@ index,artist
 1911,ZZ Top
 1912,The Cars
 1913,Rod Stewart
+1913,Bob Ezrin
+1913,David TIckle
 1914,Sheila E.
 1915,Elton John
 1916,Phil Collins
@@ -2395,6 +2401,8 @@ index,artist
 2239,Amy Grant
 2240,Gloria Estefan
 2241,Lenny Kravitz
+2242,C & C Music Factory
+2242,Freedom Williams
 2243,Céline Dion
 2244,Paula Abdul
 2245,Whitney Houston
@@ -2589,7 +2597,7 @@ index,artist
 2425,Mariah Carey
 2426,Lisa Loeb
 2427,Toni Braxton
-2428,The Versionarys
+2428,Rock Angels
 2429,Ace of Base
 2430,Ace of Base
 2431,R. Kelly
@@ -3612,7 +3620,6 @@ index,artist
 3238,Ludacris
 3239,50 Cent
 3239,Mobb Deep
-3240,Natasha Bedingfield
 3241,Black Eyed Peas
 3242,Jennifer Lopez
 3243,Toby Keith
@@ -3882,7 +3889,6 @@ index,artist
 3424,Akon
 3425,Jordin Sparks
 3426,Miley Cyrus
-3426,Rock Mafia
 3427,Metro Station
 3428,OneRepublic
 3429,Sean Kingston

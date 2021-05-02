@@ -45,13 +45,14 @@ All the data used on this project and their transformations can be found in the 
 ## Project Structure
 The project's structure is based on the [Cookiecutter Data Science Project Template](https://drivendata.github.io/cookiecutter-data-science/) by Driven Data. We recommend reading the documentation for a deep understanding on how it works and the benefits of this approach. For this project the organization occurs as folows:
 
-    ├── LICENSE            <- Project's License of Use
-    ├── README.md          <- This document
+    ├── LICENSE               <- Project's License of Use
+    ├── README.md             <- This document
     ├── data
-    │   ├── external       <- Data from third party sources.
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical data sets for study
-    │   └── raw            <- The original, immutable data dump.
-    ├── poetry.lock        <- Poetry file that configures the virtual environment
-    ├── pyproject.toml     <- Build System file configuration (PEP 518)
-    └── requirements.txt   <- The requirements file for reproducing the analysis environment
+    │   ├── external          <- Data from third party sources.
+    │   ├── interim           <- Intermediate data that has been transformed.
+    │   ├── processed         <- The final, canonical data sets for study
+    │   └── raw               <- The original, immutable data dump.
+    ├── BillboardSpotify.twbx <- Tableau Workbook
+    ├── poetry.lock           <- Poetry file that configures the virtual environment
+    ├── pyproject.toml        <- Build System file configuration (PEP 518)
+    └── requirements.txt      <- The requirements file for reproducing the analysis environment
